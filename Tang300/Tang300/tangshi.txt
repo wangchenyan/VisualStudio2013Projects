@@ -1,0 +1,651 @@
+50
+001 2
+                         chūn  xiǎo
+                          春    晓
+                      mèng   hào  rán
+                       孟    浩   然
+chūn  mián  bù   jué    xiǎo  ，chù   chù   wén    tí   niǎo 。
+春    眠    不    觉    晓    ， 处    处    闻    啼    鸟  。
+yè    lái  fēng   yǔ    shēng ， huā  luò   zhī   duō  shǎo  。
+夜    来    风    雨    声    ， 花    落    知    多    少  。
+002 2
+                             zǎo   fā    bái   dì    chéng
+                             早    发    白    帝    城
+                                      lǐ    bái
+                                      李    白
+zhāo  cí    bái   dì    cǎi   yún   jiān  ， qiān  lǐ    jiāng líng  yí    rì    huán。
+朝    辞    白    帝    彩    云    间    ， 千    里    江    陵    一    日    还 。
+liǎng àn    yuán  shēng tí    bú    zhù   ， qīng  zhōu  yǐ    guò   wàn   chóng shān。 
+两    岸    猿    声    啼    不    住    ， 轻    舟    已    过    万    重    山 。
+003 2
+                           lù   chái
+                           鹿    柴  
+                          wáng    wéi 
+                           王     维
+kōng  shān  bú    jiàn  rén   ， dàn   wén   rén   yǔ   xiǎng。
+空    山    不    见    人    ， 但    闻    人    语    响  。
+fǎn  jǐng   rù   shēn   lín   ， fù   zhào  qīng   tāi  shàng。 
+返    景    入    深    林    ， 复    照    青    苔    上  。
+004 2
+                          xiāng  sī  
+                           相    思
+                          wáng   wéi
+                           王    维
+hóng  dòu  shēng  nán   guó   ，chūn  lái   fā    jǐ    zhī  。
+红    豆    生    南    国    ，春    来    发    几    枝   。
+yuàn  jūn  duō    cǎi   xié   ，cǐ    wù    zuì   xiāng sī   。
+愿    君    多    采    撷    ，此    物    最    相    思   。
+005 2
+                           zá    shī
+                           杂    诗 
+                           wáng  wéi
+                           王    维
+jūn   zì    gù   xiāng  lái   ，yìng  zhī   gù   xiāng  shì  。
+君    自    故    乡    来    ，应    知    故    乡    事   。
+lái   rì    qǐ   chuāng qián  ，hán   méi  zhuó  huā    wèi  。
+来    日    绮    窗    前    ，寒    梅    著    花    未   。
+006 2
+                zhōng  nán   wàng   yú    xuě 
+                  终    南    望    余    雪 
+                          zǔ   yǒng
+                          祖    咏
+zhōng nán   yīn  lǐng  xiù    ，jī   xuě    fú   yún   duān  。
+终    南    阴    岭    秀    ，积    雪    浮    云    端   。
+lín   biǎo  míng  jì    sè    ，chéngzhōng zēng   mù    hán  。
+林    表    明    霁    色    ，城    中    增    暮    寒   。
+007 2
+                  dēng   guàn  què    lóu
+                    登    鹳    雀    楼
+                       wáng   zhī  huàn
+                        王    之    涣
+bái   rì    yī   shān   jìn   ，huáng hé    rù    hǎi   liú  。
+白    日    依    山    尽    ，黄    河    入    海    流   。
+yù  qióng  qiān   lǐ    mù    ，gèng shàng  yì   céng   lóu  。
+欲    穷    千    里    目    ，更    上    一    层    楼   。
+008 2
+                         jiāng   xuě 
+                           江    雪
+                       liǔ   zōng  yuán
+                        柳    宗    元
+qiān shān  niǎo   fēi   jué   ，wàn  jìng  rén   zōng  miè   。
+千    山    鸟    飞    绝    ，万    径    人    踪    灭   。
+gū   zhōu  suō    lì   wēng   ，dú   diào  hán  jiāng  xuě   。
+孤    舟    蓑    笠    翁    ，独    钓    寒    江    雪   。
+009 2
+                    dēng   lè    yóu  yuán 
+                     登    乐    游    原   
+                        lǐ   shāng  yǐn
+                        李    商    隐
+xiàng wǎn   yì    bú    shì   ，qū   chē   dēng   gǔ   yuán  。
+向    晚    意    不    适    ，驱    车    登    古    原   。
+xī    yáng  wú   xiàn   hǎo   ，zhǐ  shì   jìn   huáng hūn   。
+夕    阳    无    限    好    ，只    是    近    黄    昏   。
+010 2
+                         jìng  yè  sī
+                          静   夜  思
+                            lǐ   bái
+                            李   白
+chuángqián míng  yuè   guāng  ，yí    shì   dì   shàng shuāng。
+床    前    明    月    光    ，疑    是    地    上    霜   。
+jǔ   tóu   wàng  míng   yuè   ，dī   tóu    sī    gù   xiāng 。
+举    头    望    明    月    ，低    头    思    故    乡   。
+011 2
+                        guān shān  yuè 
+                         关   山   月   
+                            lǐ   bái
+                            李   白
+míng  yuè   chū   tiān shān   ，cāng  máng  yún   hǎi  jiān  。
+明    月    出    天    山    ，苍    茫    云    海    间   。
+cháng fēng  jǐ    wàn   lǐ    ，chuī  dù    yù    mén   guān 。
+长    风    几    万    里    ，吹    度    玉    门    关   。
+012 2
+                    dú   zuò jìng  tíng  shān 
+                    独   坐   敬   亭    山
+                           lǐ    bái
+                           李    白
+zhòng niǎo  gāo   fēi   jìn   ，gū   yún    dú    qù   xián  。
+众    鸟    高    飞    尽    ，孤    云    独    去    闲   。
+xiāng kàn  liǎng  bú    yàn   ，zhǐ  yǒu   jìng  tíng  shān  。
+相    看    两    不    厌    ，只    有    敬    亭    山   。
+013 2
+                    yè    sù   shān  sì 
+                    夜    宿    山   寺 
+                           lǐ   bái
+                           李   白
+wēi  lóu   gāo    bǎi   chǐ   ，shǒu  kě   zhāi  xīng  chén  。
+危    楼    高    百    尺    ，手    可    摘    星    辰   。
+bù   gǎn   gāo   shēng  yǔ    ，kǒng jīng  tiān  shàn  grén  。
+不    敢    高    声    语    ，恐    惊    天    上    人   。
+014 2
+                    gǔ   láng  yuè  háng
+                    古   郎    月    行
+                           lǐ   bái
+                           李   白
+xiǎo  shí   bù    shí  yuè    ，hū   zuò    jīn   yù    pán  。
+小    时    不    识    月    ，呼    作    金    玉    盘   。
+yòu   yí    yáo   tái  jìng   ，fēi  zài    bì    yún   duān 。
+又    疑    瑶    台    镜    ，飞    在    碧    云    端   。
+015 2
+                                 wàng  lú shān pù  bù
+                                  望   庐  山  瀑  布
+                                      lǐ    bái  
+                                      李    白
+rì   zhào  xiāng  lú   shēng  zǐ    yān   ，yáo  kàn    pù    bù   guà   qián  chuān。
+日    照    香    炉    生    紫    烟    ，遥    看    瀑    布    挂    前    川  。
+fēi  liú   zhí   xià   sān   qiān   chǐ   ，yí   shì    yín   hé   luò   jiǔ   tiān 。
+飞    流    直    下    三    千    尺    ，疑    是    银    河    落    九    天  。
+016 4
+    xiǔ   yè    shī   shān  fánɡ  dài   dīnɡ  dà    bù    zhì   
+    宿    业    师    山    房    待    丁    大    不    至    
+                        mènɡ  hào   rán   
+                        孟    浩    然    
+xī    yánɡ  dù    xī    lǐnɡ  ，qún   hé   shū   yǐ    míng   。
+夕    阳    度    西    岭    ，群    壑   倏    已    暝     。
+sōnɡ  yuè   shēnɡ yè    liánɡ ，fēnɡ  quán  mǎn   qīnɡ  tīnɡ  。
+松    月    生    夜    凉    ，风    泉    满    清    听    。
+qiáo  rén   ɡuī   yù    jìn   ，yān   niǎo  qī    chū   dìnɡ  。
+樵    人    归    欲    尽    ，烟    鸟    栖    初    定    。
+zhī   zǐ    qī    xiǔ   lái   ，ɡū    qín   hòu   luó   jìnɡ  。
+之    子    期    宿    来    ，孤    琴    候    萝    径    。
+017 3
+                       liè   nǚ    cāo   
+                       烈    女    操    
+                          mènɡ  jiāo  
+                          孟    郊    
+wú    tónɡ  xiānɡ dài   lǎo   ，yuān  yānɡ  huì   shuānɡsǐ    。
+梧    桐    相    待    老    ，鸳    鸯    会    双    死    。
+zhēn  fù    ɡuì   xùn   fū    ，shě   shēnɡ yì    rú    cǐ    。
+贞    妇    贵    殉    夫    ，舍    生    亦    如    此    。
+bō    lán   shì   bù    qǐ    ，qiè   xīn   jǐnɡ  zhōnɡ shuǐ  。
+波    澜    誓    不    起    ，妾    心    井    中    水    。
+018 3
+                       yóu   zǐ    yín   
+                       游    子    吟    
+                          mènɡ  jiāo  
+                          孟    郊    
+cí    mǔ    shǒu  zhōnɡ xiàn  ，yóu   zǐ    shēn  shànɡ yī    。
+慈    母    手    中    线    ，游    子    身    上    衣    。
+lín   xínɡ  mì    mì    fénɡ  ，yì    kǒnɡ  chí   chí   ɡuī   。
+临    行    密    密    缝    ，意    恐    迟    迟    归    。
+shuí  yán   cùn   cǎo   xīn   ，bào   dé    sān   chūn  huī   ？
+谁    言    寸    草    心    ，报    得    三    春    辉    ？
+019 4
+                       sāi   shànɡ qǔ    
+                       塞    上    曲    
+                       wánɡ  chānɡ línɡ  
+                       王    昌    龄    
+chán  mínɡ  kōnɡ  sānɡ  lín   ，bā    yuè   xiāo  ɡuān  dào   。
+蝉    鸣    空    桑    林    ，八    月    萧    关    道    。
+chū   sāi   fù    rù    sāi   ，chǔ   chǔ   huánɡ lú    cǎo   。
+出    塞    复    入    塞    ，处    处    黄    芦    草    。
+cónɡ  lái   yōu   bìnɡ  kè    ，jiē   xiànɡ shā   chǎnɡ lǎo   。
+从    来    幽    并    客    ，皆    向    沙    场    老    。
+mò    xué   yóu   xiá   ér    ，jīn   kuā   zǐ    liú   hǎo   。
+莫    学    游    侠    儿    ，矜    夸    紫    骝    好    。
+020 4
+                       sāi   xià   qǔ    
+                       塞    下    曲    
+                       wánɡ  chānɡ línɡ  
+                       王    昌    龄    
+yǐn   mǎ    dù    qiū   shuǐ  ，shuǐ  hán   fēnɡ  sì    dāo   。
+饮    马    渡    秋    水    ，水    寒    风    似    刀    。
+pínɡ  shā   rì    wèi   méi   ，àn    àn    jiàn  lín   táo   。
+平    沙    日    未    没    ，黯    黯    见    临    洮    。
+xī    rì    chánɡ chénɡ zhàn  ，xián  yán   yì    qì    ɡāo   。
+昔    日    长    城    战    ，咸    言    意    气    高    。
+huánɡ chén  zú    jīn   ɡǔ    ，bái   ɡǔ    luàn  pénɡ  hān   。
+黄    尘    足    今    古    ，白    骨    乱    蓬    蒿    。
+021 4
+                xiǔ   wánɡ  chānɡ línɡ  yǐn   jū    
+                宿    王    昌    龄    隐    居    
+                          chánɡ jiàn  
+                          常    建    
+qīnɡ  xī    shēn  bù    cè    ，yǐn   chǔ   wéi   ɡū    yún   。
+清    溪    深    不    测    ，隐    处    唯    孤    云    。
+sōnɡ  jì    lù    wēi   yuè   ，qīnɡ  ɡuānɡ yóu   wéi   jūn   。
+松    际    露    微    月    ，清    光    犹    为    君    。
+máo   tínɡ  xiǔ   huā   yǐnɡ  ，yào   yuàn  zī    tái   wén   。
+茅    亭    宿    花    影    ，药    院    滋    苔    纹    。
+yú    yì    xiè   shí   qù    ，xī    shān  luán  hè    qún   。
+余    亦    谢    时    去    ，西    山    鸾    鹤    群    。
+022 2
+                     dēnɡ   yōu  zhōu   tái   ɡē    
+                       登    幽    州    台    歌    
+                             chén  zǐ   ánɡ   
+                             陈    子    昂    
+       qián   bù   jiàn   ɡǔ   rén  ， hòu   bù   jiàn   lái   zhě   。
+        前    不    见    古    人   ， 后    不    见    来    者    。
+ niàn   tiān   dì   zhī   yōu   yōu  ， dú   chuàng rán   ér    tì   xià   ！
+  念    天    地    之    悠    悠   ， 独    怆    然    而    涕    下   ！
+023 4
+                          wànɡ  yuè   
+                          望    岳    
+                          dù    fǔ    
+                          杜    甫    
+dài   zōnɡ  fū    rú    hé    ？qí    lǔ    qīnɡ  wèi   le    。
+岱    宗    夫    如    何    ？齐    鲁    青    未    了    。
+zào   huà   zhōnɡ shén  xiù   ，yīn   yánɡ  ɡē    hūn   xiǎo  。
+造    化    钟    神    秀    ，阴    阳    割    昏    晓    。
+dànɡ  xiōnɡ shēnɡ cénɡ  yún   ，jué   zì    rù    ɡuī   niǎo  。
+荡    胸    生    层    云    ，决    眥    入    归    鸟    。
+huì   dānɡ  línɡ  jué   dǐnɡ  ，yī    lǎn   zhònɡ shān  xiǎo  。
+会    当    凌    绝    顶    ，一    览    众    山    小    。 
+024 3
+                          chūn  sī    
+                          春    思    
+                          lǐ    bái   
+                          李    白    
+yàn   cǎo   rú    bì    sī    ，qín   sānɡ  dī    lǜ    zhī   ；
+燕    草    如    碧    丝    ，秦    桑    低    绿    枝    ；
+dānɡ  jūn   huái  ɡuī   rì    ，shì   qiè   duàn  chánɡ shí   。
+当    君    怀    归    日    ，是    妾    断    肠    时    。
+chūn  fēnɡ  bù    xiānɡ shí   ，hé    shì   rù    luó   wéi   ？
+春    风    不    相    识    ，何    事    入    罗    帏    ？
+025 3
+           zǐ    yè    sì    shí   ɡē    ：chūn  ɡē    
+           子    夜    四    时    歌    ：春    歌    
+                          lǐ    bái   
+                          李    白    
+qín   dì    luó   fū    nǚ    ，cǎi   sānɡ  lǜ    shuǐ  biān  。
+秦    地    罗    敷    女    ，采    桑    绿    水    边    。
+sù    shǒu  qīnɡ  tiáo  shànɡ ，hónɡ  zhuānɡbái   rì    xiān  。
+素    手    青    条    上    ，红    妆    白    日    鲜    。
+cán   jī    qiè   yù    qù    ，wǔ    mǎ    mò    liú   lián  。
+蚕    饥    妾    欲    去    ，五    马    莫    留    连    。
+026 3
+          zǐ    yè    sì    shí   ɡē    ：dōnɡ  ɡē    
+          子    夜    四    时    歌    ：冬    歌    
+                          lǐ    bái   
+                          李    白    
+mínɡ  cháo  yì    shǐ   fā    ，yī    yè    xù    zhēnɡ páo   。
+明    朝    驿    使    发    ，一    夜    絮    征    袍    。
+sù    shǒu  chōu  zhēn  lěnɡ  ，nà    kān   bǎ    jiǎn  dāo   。
+素    手    抽    针    冷    ，那    堪    把    剪    刀    。
+cái   fénɡ  jì    yuǎn  dào   ，jǐ    rì    dào   lín   táo   ？
+裁    缝    寄    远    道    ，几    日    到    临    洮    ？
+027 3
+          zǐ    yè    sì    shí   ɡē    ：qiū   ɡē    
+          子    夜    四    时    歌    ：秋    歌    
+                          lǐ    bái   
+                          李    白    
+chánɡ ān    yī    piàn  yuè   ，wàn   hù    dǎo   yī    shēnɡ 。
+长    安    一    片    月    ，万    户    捣    衣    声    。
+qiū   fēnɡ  chuí  bù    jìn   ，zǒnɡ  shì   yù    ɡuān  qínɡ  。
+秋    风    吹    不    尽    ，总    是    玉    关    情    。
+hé    rì    pínɡ  hú    lǔ    ，liánɡ rén   bà    yuǎn  zhēnɡ ？
+何    日    平    胡    虏    ，良    人    罢    远    征    ？
+028 3
+          zǐ    yè    sì    shí   ɡē    ：xià   ɡē    
+          子    夜    四    时    歌    ：夏    歌    
+                          lǐ    bái   
+                          李    白    
+jìnɡ  hú    sān   bǎi   lǐ    ，hàn   dàn   fā    hé    huā   。
+镜    湖    三    百    里    ，菡    萏    发    荷    花    。
+wǔ    yuè   xī    shī   cǎi   ，rén   kàn   ài    ruò   yē    。
+五    月    西    施    采    ，人    看    隘    若    耶    。
+huí   zhōu  bù    dài   yuè   ，ɡuī   qù    yuè   wánɡ  jiā   。
+回    舟    不    待    月    ，归    去    越    王    家    。
+029 6
+                               ɡǔ    cónɡ  jūn   xínɡ  
+                               古    从    军    行    
+                                     lǐ    qí
+                                     李    颀
+bái   rì    dēnɡ  shān  wànɡ  fēnɡ  huǒ   ，huánɡ hūn   yǐn   mǎ    bànɡ  jiāo  hé    。
+白    日    登    山    望    烽    火    ，黄    昏    饮    马    傍    交    河    。
+xínɡ  rén   diāo  dòu   fēnɡ  shā   àn    ，ɡōnɡ  zhǔ   pí    pá    yōu   yuàn  duō   。
+行    人    刁    斗    风    沙    暗    ，公    主    琵    琶    幽    怨    多    。
+yě    yún   wàn   lǐ    wú    chénɡ ɡuō   ，yǔ    xuě   fēn   fēn   lián  dà    mò    。
+野    云    万    里    无    城    郭    ，雨    雪    纷    纷    连    大    漠    。
+hú    yàn   āi    mínɡ  yè    yè    fēi   ，hú    ér    yǎn   lèi   shuānɡshuānɡluò   。
+胡    雁    哀    鸣    夜    夜    飞    ，胡    儿    眼    泪    双    双    落    。
+wén   dào   yù    mén   yóu   bèi   zhē   ，yīnɡ  jiānɡ xìnɡ  mìnɡ  zhú   qīnɡ  chē   。
+闻    道    玉    门    犹    被    遮    ，应    将    性    命    逐    轻    车    。
+nián  nián  zhàn  ɡǔ    mái   huānɡ wai   ，kōnɡ  jiàn  pú    táo   rù    hàn   jiā   。
+年    年    战    骨    埋    荒    外    ，空    见    葡    萄    入    汉    家    。
+030 6
+                                      ɡǔ    yì    
+                                      古    意    
+                                      lǐ    qí
+                                      李    颀
+            nán   ér    shì   chánɡ zhēnɡ ，shǎo  xiǎo  yōu   yàn   kè    。
+            男    儿    事    长    征    ，少    小    幽    燕    客    。
+            dǔ    shènɡ mǎ    tí    xià   ，yóu   lái   qīnɡ  qī    chǐ   。
+            赌    胜    马    蹄    下    ，由    来    轻    七    尺    。
+            shā   rén   mò    ɡǎn   qián  ，xū    rú    wèi   máo   zhé   。
+            杀    人    莫    敢    前    ，须    如    猬    毛    磔    。
+huánɡ yún   lǒnɡ  dǐ    bái   xuě   fēi   ，wèi   dé    bào   ēn    bù    nénɡ  ɡuī   。
+黄    云    陇    底    白    雪    飞    ，未    得    报    恩    不    能    归    。
+liáo  dōnɡ  xiǎo  fù    nián  shí   wǔ    ，ɡuàn  dàn   pí    pá    jiě   ɡē    wǔ    。
+辽    东    小    妇    年    十    五    ，惯    弹    琵    琶    解    歌    舞    。
+jīn   wéi   qiānɡ dí    chū   sāi   shēnɡ ，shǐ   wǒ    sān   jūn   lèi   rú    yǔ    ！
+今    为    羌    笛    出    塞    声    ，使    我    三    军    泪    如    雨    ！
+031 5
+                                      qín   ɡē    
+                                      琴    歌    
+                                      lǐ    qí
+                                      李    颀
+zhǔ   rén   yǒu   jiǔ   huān  jīn   xī    ，qǐnɡ  zòu   mínɡ  qín   ɡuǎnɡ línɡ  kè    。
+主    人    有    酒    欢    今    夕    ，请    奏    鸣    琴    广    陵    客    。
+yuè   zhào  chénɡ tóu   wū    bàn   fēi   ，shuānɡqī    wàn   shù   fēnɡ  rù    yī    。
+月    照    城    头    乌    半    飞    ，霜    凄    万    树    风    入    衣    。
+tónɡ  lú    huá   zhú   zhú   zēnɡ  huī   ，chū   dàn   lù    shuǐ  hòu   chǔ   fēi   。
+铜    炉    华    烛    烛    增    辉    ，初    弹    渌    水    后    楚    妃    。
+yī    shēnɡ yǐ    dònɡ  wù    jiē   jìnɡ  ，sì    zuò   wú    yán   xīnɡ  yù    xī    。
+一    声    已    动    物    皆    静    ，四    座    无    言    星    欲    稀    。
+qīnɡ  huái  fènɡ  shǐ   qiān  yú    lǐ    ，ɡǎn   ɡào   yún   shān  cónɡ  cǐ    shǐ   ？
+清    淮    奉    使    千    馀    里    ，敢    告    云    山    从    此    始    ？
+032 7
+            chén  yì    chāo  shī   yuàn  dú    chán  jīnɡ  
+            晨    诣    超    师    院    读    禅    经    
+                       liǔ   zōnɡ  yuán  
+                       柳    宗    元    
+jí    jǐnɡ  shù   hán   chǐ   ，qīnɡ  xīn   fú    chén  fú    。
+汲    井    漱    寒    齿    ，清    心    拂    尘    服    。
+xián  chí   bèi   yè    shū   ，bù    chū   dōnɡ  zhāi  dú    。
+闲    持    贝    叶    书    ，步    出    东    斋    读    。
+zhēn  yuán  le    wú    qǔ    ，wànɡ  jì    shì   suǒ   zhú   。
+真    源    了    无    取    ，忘    迹    世    所    逐    。
+yí    yán   jì    kě    míng  ，shàn  xìnɡ  hé    yóu   shú   ？
+遗    言    冀    可    冥    ，缮    性    何    由    熟    ？
+dào   rén   tínɡ  yǔ    jìnɡ  ，tái   sè    lián  shēn  zhú   。
+道    人    庭    宇    静    ，苔    色    连    深    竹    。
+rì    chū   wù    lù    yú    ，qīnɡ  sōnɡ  rú    ɡāo   mù    。
+日    出    雾    露    馀    ，青    松    如    膏    沐    。
+dàn   rán   lí    yán   shuō  ，wù    yuè   xīn   zì    zú    。
+澹    然    离    言    说    ，悟    悦    心    自    足    。
+033 4
+                         xī    jū    
+                         溪    居    
+                       liǔ   zōnɡ  yuán  
+                       柳    宗    元    
+jiǔ   wéi   zān   zǔ    lèi   ，xìnɡ  cǐ    nán   yí    zhé   。
+久    为    簪    组    累    ，幸    此    南    夷    谪    。
+xián  yī    nónɡ  pǔ    lín   ，ǒu    sì    shān  lín   kè    。
+闲    依    农    圃    邻    ，偶    似    山    林    客    。
+xiǎo  ɡēnɡ  fān   lù    cǎo   ，yè    bǎnɡ  xiǎnɡ xī    shí   。
+晓    耕    翻    露    草    ，夜    榜    响    溪    石    。
+lái   wǎnɡ  bù    fénɡ  rén   ，chánɡ ɡē    chǔ   tiān  bì    。
+来    往    不    逢    人    ，长    歌    楚    天    碧    。
+034 3
+                                     yú    wēnɡ  
+                                     渔    翁    
+                                  liǔ   zōnɡ  yuán  
+                                   柳    宗    元    
+yú    wēnɡ  yè    bànɡ  xī    yán   xiǔ   ，xiǎo  jí    qīnɡ  xiānɡ rán   chǔ   zhú   。
+渔    翁    夜    傍    西    岩    宿    ，晓    汲    清    湘    燃    楚    烛    。
+yān   xiāo  rì    chū   bù    jiàn  rén   ，ǎi    nǎi   yī    shēnɡ shān  shuǐ  lǜ    。
+烟    销    日    出    不    见    人    ，欸    乃    一    声    山    水    绿    。
+huí   kàn   tiān  jì    xià   zhōnɡ liú   ，yán   shànɡ wú    xīn   yún   xiānɡ zhú   。
+回    看    天    际    下    中    流    ，岩    上    无    心    云    相    逐    。
+035 6
+             qiū   dēnɡ  lán   shān  jì    zhānɡ wǔ    
+             秋    登    兰    山    寄    张    五    
+                        mènɡ  hào   rán   
+                        孟    浩    然    
+běi   shān  bái   yún   lǐ    ，yǐn   zhě   zì    yí    yuè   。
+北    山    白    云    里    ，隐    者    自    怡    悦    。
+xiānɡ wànɡ  shǐ   dēnɡ  ɡāo   ，xīn   suí   yàn   fēi   miè   。
+相    望    始    登    高    ，心    随    雁    飞    灭    。
+chóu  yīn   báo   mù    qǐ    ，xīnɡ  shì   qīnɡ  qiū   fā    。
+愁    因    薄    暮    起    ，兴    是    清    秋    发    。
+shí   jiàn  ɡuī   cūn   rén   ，shā   xínɡ  dù    tóu   xiē   。
+时    见    归    村    人    ，沙    行    渡    头    歇    。
+tiān  biān  shù   ruò   jì    ，jiānɡ pàn   zhōu  rú    yuè   。
+天    边    树    若    荠    ，江    畔    洲    如    月    。
+hé    dānɡ  zǎi   jiǔ   lái   ，ɡònɡ  zuì   zhònɡ yánɡ  jié   。
+何    当    载    酒    来    ，共    醉    重    阳    节    。
+036 5
+              xià   rì    nán   tínɡ  huái  xīn   dà    
+              夏    日    南    亭    怀    辛    大    
+                       mènɡ  hào   rán   
+                       孟    浩    然    
+shān  ɡuānɡ hū    xī    luò   ，shi   yuè   jiàn  dōnɡ  shànɡ 。
+山    光    忽    西    落    ，池    月    渐    东    上    。
+sàn   fā    chénɡ yè    liánɡ ，kāi   xuān  wò    xián  chǎnɡ 。
+散    发    乘    夜    凉    ，开    轩    卧    闲    敞    。
+hé    fēnɡ  sònɡ  xiānɡ qì    ，zhú   lù    dī    qīnɡ  xiǎnɡ 。
+荷    风    送    香    气    ，竹    露    滴    清    响    。
+yù    qǔ    mínɡ  qín   dàn   ，hèn   wú    zhī   yīn   shǎnɡ 。
+欲    取    鸣    琴    弹    ，恨    无    知    音    赏    。
+ɡǎn   cǐ    huái  ɡù    rén   ，zhōnɡ xiāo  láo   mènɡ  xiǎnɡ 。
+感    此    怀    故    人    ，中    宵    劳    梦    想    。
+037 5
+tónɡ  cónɡ  dì    nán   zhāi  wán   yuè   yì    shān  yīn   cuī   shǎo  fǔ    
+同    从    弟    南    斋    玩    月    忆    山    阴    崔    少    府    
+                        wánɡ  chānɡ línɡ  
+                        王    昌    龄    
+ɡāo   wò    nán   zhāi  shí   ，kāi   wéi   yuè   chū   tǔ    。
+高    卧    南    斋    时    ，开    帷    月    初    吐    。
+qīnɡ  huī   dàn   shuǐ  mù    ，yǎn   yànɡ  zài   chuānɡhù    。
+清    辉    淡    水    木    ，演    漾    在    窗    户    。
+rǎn   rǎn   jǐ    yínɡ  xū    ，chénɡ chénɡ biàn  jīn   ɡǔ    。
+苒    苒    几    盈    虚    ，澄    澄    变    今    古    。
+měi   rén   qīnɡ  jiānɡ pàn   ，shì   yè    yuè   yín   kǔ    。
+美    人    清    江    畔    ，是    夜    越    吟    苦    。
+qiān  lǐ    qí    rú    hé    ，wēi   fēnɡ  chuí  lán   dù    。
+千    里    其    如    何    ，微    风    吹    兰    杜    。
+038 5
+                      ɡǎn   yù    qí    yī    
+                      感    遇    其    一    
+                        zhānɡ jiǔ   línɡ  
+                        张    九    龄    
+ɡū    hónɡ  hǎi   shànɡ lái   ，chí   huáng bù    ɡǎn   ɡù    ；
+孤    鸿    海    上    来    ，池    潢    不    敢    顾    ；
+cè    jiàn  shuānɡcuì   niǎo  ，cháo  zài   sān   zhū   shù   。
+侧    见    双    翠    鸟    ，巢    在    三    珠    树    。
+jiǎo  jiǎo  zhēn  mù    diān  ，dé    wú    jīn   wán   jù    ？
+矫    矫    珍    木    巅    ，得    无    金    丸    惧    ？
+měi   fú    huàn  rén   zhǐ   ，ɡāo   mínɡ  bī    shén  è     。
+美    服    患    人    指    ，高    明    逼    神    恶    。
+jīn   wǒ    yóu   míng   míng ，yì    zhě   hé    suǒ   mù    ？
+今    我    游    冥     冥   ，弋    者    何    所    慕    ？
+039 4
+                    ɡǎn   yù    qí    èr    
+                    感    遇    其    二    
+                       zhānɡ jiǔ   línɡ  
+                       张    九    龄    
+lán   yè    chūn  wēi   ruí   ，ɡuì   huá   qiū   jiáo  jié   ；
+兰    叶    春    葳     蕤   ，桂    华    秋    皎    洁    ；
+xīn   xīn   cǐ    shēnɡ yì    ，zì    ěr    wéi   jiā   jié   。
+欣    欣    此    生    意    ，自    尔    为    佳    节    。
+shuí  zhī   lín   qī    zhě   ？wén   fēnɡ  zuò   xiānɡ yuè   ，
+谁    知    林    栖    者    ？闻    风    坐    相    悦    ，
+cǎo   mù    yǒu   běn   xīn   ，hé    qiú  měi   rén   shé    ？
+草    木    有    本    心    ，何    求    美    人    折    ？
+040 4
+                    ɡǎn   yù    qí    sān   
+                    感    遇    其    三    
+                      zhānɡ jiǔ   línɡ  
+                       张    九    龄    
+yōu   rén   ɡuī   dú    wò    ，zhì   lǜ    xǐ    ɡū    qīnɡ  ，
+幽    人    归    独    卧    ，滞    虑    洗    孤    清    ，
+chí   cǐ    xiè   ɡāo   niǎo  ，yīn   zhī   chuán yuǎn  qínɡ  。
+持    此    谢    高    鸟    ，因    之    传    远    情    。
+rì    xī    huái  kōnɡ  yì    ，rén   shuí  ɡǎn   zhì   jīnɡ  ？
+日    夕    怀    空    意    ，人    谁    感    至    精    ？
+fēi   shěn  lǐ    zì    ɡé    ，hé    suǒ   wèi   wú    chénɡ ？
+飞    沈    理    自    隔    ，何    所    慰    吾    诚    ？
+041 5
+                     ɡǎn   yù    qí    sì    
+                     感    遇    其    四    
+                       zhānɡ jiǔ   línɡ  
+                       张    九    龄    
+jiānɡ nán   yǒu   dān   jú    ，jīnɡ  dōnɡ  yóu   lǜ    lín   ；
+江    南    有    丹    橘    ，经    冬    犹    绿    林    ；
+qǐ    yī    dì    qì    nuǎn  ？zì    yǒu   suì   hán   xīn   。
+岂    伊    地    气    暖    ？自    有    岁    寒    心    。
+kě    yǐ    jiàn  jiā   kè    ，nai   hé    zǔ    zhònɡ shēn  ？
+可    以    荐    嘉    客    ，奈    何    阻    重    深    ？
+yùn   mìnɡ  wéi   suǒ   yù    ，xún   huán  bù    kě    xún   。
+运    命    惟    所    遇    ，循    环    不    可    寻    。
+tú    yán   shù   táo   lǐ    ，cǐ    mù    qǐ    wú    yīn   ？
+徒    言    树    桃    李    ，此    木    岂    无    阴    ？
+042 8
+              mènɡ  lǐ    bái   èr    shǒu  zhī   yī    
+              梦    李    白    二    首    之    一    
+                          dù    fǔ    
+                          杜    甫    
+sǐ    bié   yǐ    tūn   shēnɡ ，shēnɡ bié   chánɡ cè    cè    。
+死    别    已    吞    声    ，生    别    常    恻    恻    。
+jiānɡ nán   zhànɡ lì    dì    ，zhú   kè    wú    xiāo  xī    。
+江    南    瘴    疠    地    ，逐    客    无    消    息    。
+ɡù    rén   rù    wǒ    mènɡ  ，mínɡ  wǒ    chánɡ xiānɡ yì    。
+故    人    入    我    梦    ，明    我    长    相    忆    。
+jūn   jīn   zài   luó   wǎnɡ  ，hé    yǐ    yǒu   yǔ    yì    ？
+君    今    在    罗    网    ，何    以    有    羽    翼    ？
+kǒnɡ  fēi   pínɡ  shēnɡ hún   ，lù    yuǎn  bù    kě    cè    。
+恐    非    平    生    魂    ，路    远    不    可    测    。
+hún   lái   fēnɡ  lín   qīnɡ  ，hún   fǎn   ɡuān  sāi   hēi   。
+魂    来    枫    林    青    ，魂    返    关    塞    黑    。
+luò   yuè   mǎn   wū    liánɡ ，yóu   yí    zhào  yán   sè    。
+落    月    满    屋    梁    ，犹    疑    照    颜    色    。
+shuǐ  shēn  bō    lànɡ  kuò   ，wú    shǐ   jiāo  lónɡ  dé    。
+水    深    波    浪    阔    ，无    使    蛟    龙    得    。
+043 8
+            mènɡ  lǐ    bái   èr    shǒu  zhī   èr    
+            梦    李    白    二    首    之    二    
+                          dù    fǔ    
+                          杜    甫    
+fú    yún   zhōnɡ rì    xínɡ  ，yóu   zǐ    jiǔ   bù    zhì   。
+浮    云    终    日    行    ，游    子    久    不    至    。
+sān   yè    pín   mènɡ  jūn   ，qínɡ  qīn   jiàn  jūn   yì    。
+三    夜    频    梦    君    ，情    亲    见    君    意    。
+ɡào   ɡuī   chánɡ jú    cù    ，kǔ    dào   lái   bù    yì    。
+告    归    常    局    促    ，苦    道    来    不    易    。
+jiānɡ hú    duō   fēnɡ  bō    ，zhōu  jí    kǒnɡ  shī   zhuì  。
+江    湖    多    风    波    ，舟    楫    恐    失    坠    。
+chū   mén   sāo   bái   shǒu  ，ruò   fù    pínɡ  shēnɡ zhì   。
+出    门    搔    白    首    ，若    负    平    生    志    。
+ɡuàn  ɡài   mǎn   jīnɡ  huá   ，sī    rén   dú    qiáo  cuì   。
+冠    盖    满    京    华    ，斯    人    独    憔    悴    。
+shú   yún   wǎnɡ  huī   huī   ，jiānɡ lǎo   shēn  fǎn   lèi   。
+孰    云    网    恢    恢    ，将    老    身    反    累    。
+qiān  qiū   wàn   suì   mínɡ  ，jì    mò    shēn  hòu   shì   。
+千    秋    万    岁    名    ，寂    寞    身    后    事    。
+044 6
+                       ɡuān  shān  yuè   
+                       关    山    月    
+                          lǐ    bái   
+                          李    白    
+mínɡ  yuè   chū   tiān  shān  ，cānɡ  mánɡ  yún   hǎi   jiān  。
+明    月    出    天    山    ，苍    茫    云    海    间    。
+chánɡ fēnɡ  jǐ    wàn   lǐ    ，chuí  dù    yù    mén   ɡuān  。
+长    风    几    万    里    ，吹    度    玉    门    关    。
+hàn   xià   bái   dēnɡ  dào   ，hú    kuī   qīnɡ  hǎi   wān   。
+汉    下    白    登    道    ，胡    窥    青    海    湾    。
+yóu   lái   zhēnɡ zhàn  dì    ，bù    jiàn  yǒu   rén   hái   。
+由    来    征    战    地    ，不    见    有    人    还    。
+shù   kè    wànɡ  biān  sè    ，sī    ɡuī   duō   kǔ    yán   。
+戍    客    望    边    色    ，思    归    多    苦    颜    。
+ɡāo   lóu   dānɡ  cǐ    yè    ，tàn   xī    wèi   yīnɡ  xián  。
+高    楼    当    此    夜    ，叹    息    未    应    闲    。
+045 7
+xià   zhōnɡ nán   shān  ɡuò   hú    sī    shān  rén   xiǔ   zhì   jiǔ   
+下    终    南    山    过    斛    斯    山    人    宿    置    酒    
+                          lǐ    bái   
+                          李    白    
+mù    cónɡ  bì    shān  xià   ，shān  yuè   suí   rén   ɡuī   ；
+暮    从    碧    山    下    ，山    月    随    人    归    ；
+què   ɡù    suǒ   lái   jìnɡ  ，cānɡ  cānɡ  hénɡ  cuì   wēi   。
+却    顾    所    来    径    ，苍    苍    横    翠    微    。
+xiānɡ xié   jí    tián  jiā   ，tónɡ  zhì   kāi   jīnɡ  fēi   ；
+相    携    及    田    家    ，童    稚    开    荆    扉    ；
+lǜ    zhú   rù    yōu   jìnɡ  ，qīnɡ  luó   fú    xínɡ  yī    。
+绿    竹    入    幽    径    ，青    萝    拂    行    衣    。
+huān  yán   dé    suǒ   qì    ，měi   jiǔ   liáo  ɡònɡ  huī   ；
+欢    言    得    所    憩    ，美    酒    聊    共    挥    ；
+chánɡ ɡē    yín   sōnɡ  fēnɡ  ，qǔ    jìn   hé    xīnɡ  xī    。
+长    歌    吟    松    风    ，曲    尽    河    星    稀    。
+wǒ    zuì   jūn   fù    lè    ，táo   rán   ɡònɡ  wànɡ  jī    。
+我    醉    君    复    乐    ，陶    然    共    忘    机    。
+046 7
+                   yuè   xià   dú    zhuó  
+                   月    下    独    酌    
+                           lǐ    bái   
+                           李    白    
+huā   jiān  yī    hú    jiǔ   ，dú    zhuó  wú    xiānɡ qīn   ；
+花    间    一    壶    酒    ，独    酌    无    相    亲    ；
+jǔ    bēi   yāo   mínɡ  yuè   ，duì   yǐnɡ  chénɡ sān   rén   。
+举    杯    邀    明    月    ，对    影    成    三    人    。
+yuè   jì    bù    jiě   yǐn   ，yǐnɡ  tú    suí   wǒ    shēn  ；
+月    既    不    解    饮    ，影    徒    随    我    身    ；
+zàn   bàn   yuè   jiānɡ yǐnɡ  ，xínɡ  lè    xū    jí    chūn  。
+暂    伴    月    将    影    ，行    乐    须    及    春    。
+wǒ    ɡē    yuè   pái   huái  ，wǒ    wǔ    yǐnɡ  línɡ  luàn  ；
+我    歌    月    徘    徊    ，我    舞    影    零    乱    ；
+xǐnɡ  shí   tónɡ  jiāo  huān  ，zuì   hòu   ɡè    fēn   sàn   。
+醒    时    同    交    欢    ，醉    后    各    分    散    。
+yǒnɡ  jié   wú    qínɡ  yóu   ，xiānɡ qī    miǎo  yún   hàn   。
+永    结    无    情    游    ，相    期    邈    云    汉    。
+047 6
+                        chánɡ xiānɡ sī    èr    shǒu  zhī   yī    
+                         长    相    思    二    首    之    一    
+                                    lǐ    bái   
+                                    李    白    
+chánɡ xiānɡ sī  ，zài   chánɡ ān  。luò   wěi   qiū   tí    jīn   jǐnɡ  lán ，
+长    相    思  ，在    长    安  。络    纬    秋    啼    金    井    阑  ，
+wēi   shuānɡqī    qī    diàn  sè    hán 。ɡū   dēnɡ  bù    mínɡ  sī     yù    jué  ，
+微    霜    凄    凄    簟    色    寒  。孤    灯    不    明    思    欲    绝   ，
+juàn  wéi  wànɡ  yuè   kōnɡ  chánɡ tàn  。měi   rén   rú    huā   ɡé    yún   duān。
+卷    帷    望    月    空    长    叹  。美    人    如    花    隔    云    端  。
+shànɡ yǒu   qīnɡ  míng zhī   chánɡ tiān，xià   yǒu   lù   shuǐ  zhī    bō    lán  。
+上    有    青    冥    之    长    天  ，下    有    渌    水    之    波    澜  。
+tiān  chánɡ lù    yuǎn  hún   fēi   kǔ  ，mènɡ  hún   bù    dào   ɡuān  shān  nán 。
+天    长    路    远    魂    飞    苦  ，梦    魂    不    到    关    山    难  。
+chánɡ xiānɡ sī  ，cuī   xīn   ɡān   ！
+长    相    思  ，摧    心    肝    ！
+048 5
+                      chánɡ xiānɡ sī    èr    shǒu  zhī   èr    
+                      长    相    思    二    首    之    二    
+                                    lǐ    bái   
+                                    李    白    
+rì    sè    yǐ    jìn   huā   hán   yān ，yuè   mínɡ  yù    sù    chóu  bù   mián 。
+日    色    已    尽    花    含    烟  ，月    明    欲    素    愁    不    眠  。
+zhào  sè    chū   tínɡ  fènɡ  huánɡ zhù ，shǔ   qín   yù    zòu   yuān  yānɡ  xián。
+赵    瑟    初    停    凤    凰    柱  ，蜀    琴    欲    奏    鸳    鸯    弦  。
+cǐ    qǔ    yǒu   yì    wú    rén  chuán，yuàn  suí   chūn  fēnɡ  jì    yàn   rán 。
+此    曲    有    意    无    人    传  ，愿    随    春    风    寄    燕    然  。
+yì    jūn   tiáo  tiáo  ɡé    qīnɡ  tiān。xī    rì    hénɡ  bō    mù  ，jīn   
+忆    君    迢    迢    隔    青    天  。昔    日    横    波    目  ，今    
+chénɡ liú   lèi  quán 。bù    xìn   qiè  chánɡ duàn ，ɡuī   lái   kàn   qǔ    mínɡ  jìnɡ  qián  。
+成    流    泪    泉  。不    信    妾    肠    断  ，归    来    看    取    明    镜    前    。
+049 6
+                     xínɡ  lù    nán   sān   shǒu  zhī   yī    
+                      行    路    难    三    首    之    一    
+                                    lǐ    bái   
+                                    李    白    
+jīn   zūn   qīnɡ  jiǔ   dòu   shí   qiān，yù    pán   zhēn  xiū   zhí   wàn   qián  。
+金    樽    清    酒    斗    十    千  ，玉    盘    珍    羞    值    万    钱    。
+tínɡ  bēi   tóu   zhù   bù    nénɡ  shí ，bá    jiàn  sì    ɡù    xīn   mánɡ  rán   。
+停    杯    投    箸    不    能    食  ，拔    剑    四    顾    心    茫    然    。
+yù    dù    huánɡ hé    bīnɡ  sāi  chuān，jiānɡ dēnɡ  tai   xínɡ  xuě   mǎn   shān  。
+欲    渡    黄    河    冰    塞    川  ，将    登    太    行    雪    满    山    。
+xián  lái   chuí  diào  bì    xī   shànɡ，hū    fù    chénɡ zhōu  mènɡ  rì    biān  。
+闲    来    垂    钓    碧    溪    上  ，忽    复    乘    舟    梦    日    边    。
+xínɡ  lù    nán ，xínɡ  lù    nán ！duō   qí    lù  ，jīn   ān    zài   ？
+行    路    难  ，行    路    难  ！多    歧    路  ，今    安    在    ？
+chánɡ fēnɡ  pò    lànɡ  huì   yǒu   shí ，zhí   ɡuà   yún   fān   jì    cānɡ  hǎi   。
+长    风    破    浪    会    有    时  ，直    挂    云    帆    济    沧    海    。
+050 9
+                        xínɡ  lù    nán   sān   shǒu  zhī   sān   
+                        行    路    难    三    首    之    三    
+                                     lǐ    bái   
+                                     李    白    
+yǒu   ěr    mò    xǐ    yǐng  chuān shuǐ，yǒu   kǒu   mò    shí   shǒu  yánɡ  jué 。
+有    耳    莫    洗    颍    川    水  ，有    口    莫    食    首    阳    蕨  。
+hán  guāng  hùn  shì   guì    wú   míng ，hé   yòng   gū    gāo   bǐ   yún   yuè  ？ 
+含    光    混    世    贵    无    名  ，何    用    孤    高    比    云    月  ？
+wú    ɡuān  zì    ɡǔ    xián  dá    rén ，ɡōnɡ  chénɡ bù    tuì   jiē   yǔn  shēn 。
+吾    观    自    古    贤    达    人  ，功    成    不    退    皆    殒    身  。
+zǐ    xū    jì    qì    wú   jiānɡ shànɡ，qū    yuán  zhōnɡ tóu   xiānɡ shuǐ  bīn 。
+子    胥    既    弃    吴    江    上  ，屈    原    终    投    湘    水    滨  。
+lù    jī    xiónɡ cái   qǐ    zì    bǎo ？lǐ    sī    shuì  jià   kǔ    bù    zǎo 。
+陆    机    雄    才    岂    自    保  ？李    斯    税    驾    苦    不    早  。
+huá   tínɡ  hè    lì    jù    kě    wén ，shànɡ cài   cānɡ  yīnɡ  hé    zú    dào ！
+华    亭    鹤    唳    讵    可    闻  ，上    蔡    苍    鹰    何    足    道  ！
+jūn   bù    jiàn，wú    zhōnɡ zhānɡ hàn   chēnɡ dá   shēnɡ，qiū   fēnɡ  hū    yì    
+君    不    见  ，吴    中    张    翰    称    达    生  ，秋    风    忽    忆        
+jiānɡ dōnɡ  xínɡ。qiě   lè    shēnɡ qián  yī    bēi   jiǔ ，hé    xū    shēn  hòu   
+江    东    行  。且    乐    生    前    一    杯    酒  ，何    须    身    后    
+qiān  zǎi   mínɡ  ！
+千    载    名    ！
